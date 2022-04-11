@@ -1,0 +1,5 @@
+Pima Indians Diabetes Database : https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database
+Bangladesh Diabetes UCI Dataset : https://www.kaggle.com/datasets/alakaaay/diabetes-uci-dataset
+Diabetes Dataset 2019 : https://www.kaggle.com/datasets/tigganeha4/diabetes-dataset-2019
+Dataset for People for their Blood Glucose Level with their Superficial body feature readings : https://ieee-dataport.org/open-access/dataset-people-their-blood-glucose-level-their-superficial-body-feature-readings
+north_india_HealthRiskData_500 : https://data.mendeley.com/datasets/46ss3nrfbd/2

@@ -1,0 +1,9 @@
+
+Diabetes_Feature_Engineering : https://www.kaggle.com/ruckdent/feynn-t2-diabetes-feature-engineering
+Diabetes_Segmentation : https://www.kaggle.com/code/ruckdent/feynn-t2-diabetes-segmentation/settings
+
+Hypertension_Feature_Engineering : https://www.kaggle.com/ruckdent/feynn-t2-hypertension-feature-engineering
+Hypertension_Segmentation : https://www.kaggle.com/ruckdent/feynn-t2-hypertension-segmentation
+
+CardiovascularDisease_Feature_Engineering : https://www.kaggle.com/ruckdent/feynn-t2-cardiovasculardisease-feature-engineering
+CardioVascular_Segmentation : https://www.kaggle.com/ruckdent/feynn-t2-cardiovascular-segmentation
